@@ -1,9 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/files/cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+<embed src="https://lily-gebhart.io/cv.pdf" type="files">
+
+helloooo
