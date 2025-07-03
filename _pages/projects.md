@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Projects"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /projects/
   - /projects.html
