@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://lily-gebhart.io/cv.pdf" type="files/cv.pdf" />
+<embed src="https://lily-gebhart.io/files/cv.pdf" type="files" />
 
-helloooo again
+helloooo again again
