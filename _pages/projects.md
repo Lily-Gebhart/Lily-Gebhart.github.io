@@ -1,11 +1,12 @@
 ---
-permalink: /
+layout: archive
 title: "Projects"
-author_profile: false
+permalink: /projects/
+author_profile: true
 redirect_from: 
-  - /projects/
   - /projects.html
 ---
 
 Here are my projects :) 
+update?
 update?
