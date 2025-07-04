@@ -2,12 +2,12 @@
 title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-muon_tomography
+permalink: /publication/2023-muon-tomography
 excerpt: 
 date: 2023
 venue: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerations, Spectrometers, Detectors, '
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 bibtexurl:
 citation: 
 ---
