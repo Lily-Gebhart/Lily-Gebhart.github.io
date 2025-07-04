@@ -7,6 +7,4 @@ redirect_from:
   - /projects.html
 ---
 
-Here are my projects :) 
-update?
-update?
+Coming soon...
