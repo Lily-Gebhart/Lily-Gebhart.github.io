@@ -3,7 +3,7 @@ title: "Muon Tomography for Detection of Dynamic Border Tunnels"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-17-muon-tomography
-excerpt: 'Using muon tomography to detect tunnels...'
+excerpt: ''
 date: 2023-05-17
 venue: 'Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment'
 slidesurl: 

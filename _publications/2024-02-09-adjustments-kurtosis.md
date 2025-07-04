@@ -3,8 +3,8 @@ title: "Adjustments for Kurtosis and Continuity on the Prentice Test"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-09-adjustments-kurtosis
-excerpt: 'The test of Prentice is a non-parametric statistical test '
-date: 2023-05-17
+excerpt: ''
+date: 2024-02-09
 venue: 'Advances in Pure Mathematics'
 slidesurl: 
 paperurl: 'https://www.scirp.org/journal/paperinformation?paperid=131585'

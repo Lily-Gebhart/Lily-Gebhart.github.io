@@ -1,9 +1,9 @@
 ---
 title: "Exploring Integrated Co-occurrence and Semantic Mechanisms for Long Term Memory Retrieval"
-collection: conferences
-category: manuscripts
+collection: publications
+category: conferences
 permalink: /publication/2025-07-29-exploring-integrated-mechanisms
-excerpt: 'Semantic and co-occurrence memory associations...'
+excerpt: ''
 date: 2025-07-29
 venue: 'International Conference on Cognitive Modeling (ICCM)'
 slidesurl: 
