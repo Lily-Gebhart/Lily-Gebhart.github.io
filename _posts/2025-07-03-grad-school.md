@@ -1,7 +1,7 @@
 ---
 title: 'PhD Applications: A Reflection'
-date: 2025-11-12
-permalink: /posts/2025/07/2025-11-12-grad-school/
+date: 2025-07-03
+permalink: /posts/2025/07/2025-07-03-grad-school/
 tags:
 
 ---
