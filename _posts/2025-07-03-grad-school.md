@@ -8,7 +8,7 @@ tags:
 
 Hi there! I’ve been excited to write this post since I completed the grad school application cycle this past April. I want to focus more on my personal experience here, as I know the application process is highly individual and dependent on your own unique experiences in undergrad (and what you want for your PhD)! But, I’ve also tried to add in some advice and online resources based on what I researched and observed when applying. My hope is that by sharing my experience with the PhD application process for neuroscience & psychology, I can help you understand what the process looks and feels like, and to help you know what to expect, as I know it can seem overwhelming! 
 
-I also know having access to sample essays and CVs was a great help to me when applying (I looked at far too many), so I’ve made my materials for Stanford University available here. 
+I also know having access to sample essays and CVs was a great help to me when applying (I looked at far too many), so I’ve made my materials for Stanford University available [here](https://docs.google.com/document/d/1Q_OD-fWvD319eUio81-brQuH5VcjBBLMDwnCfMJ5Agk/edit?usp=sharing). 
 
 I also intend this post to be a living document, so if you have any comments or questions, feel free to send me an email at gebhart[at]stanford.edu and I’ll update accordingly! 
 
