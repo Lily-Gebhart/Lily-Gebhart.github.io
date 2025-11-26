@@ -24,6 +24,7 @@ A little later than I anticipated, but I've updated this post with my thoughts o
 
 ### November 26th:
 All done! Feel free to reach out if there's any more you want to hear about. 
+
 ________________________________
 # A Little Bit About My Background
 
