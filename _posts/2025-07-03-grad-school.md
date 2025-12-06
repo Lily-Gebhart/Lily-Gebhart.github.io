@@ -178,7 +178,7 @@ Most schools didn’t ask me for a personal statement but for a **diversity stat
 ### Supplemental Essays
 Some programs throw in **supplemental essay** prompts. It’s helpful to keep a few short anecdotes or stories in your back pocket that you can adapt for different prompts. These stories can often double as great talking points during interviews.
 
-Also - you can repeat your statements for schools! I had the same base paragraphs for 75% of my SOP for almost all schools and swapped out the rest for information specific to each program. At the end of the day, make sure it sounds like you, not anybody else. I think having my voice in my statement helped me out a lot. With that in mind, having family read them (or someone who knows you (not just research you, very well) can be helpful.
+Also - you can repeat your statements for schools! I had the same base paragraphs for 75% of my SOP for almost all schools and swapped out the rest for information specific to each program. At the end of the day, make sure it sounds like you, not anybody else. I think having my voice in my statement helped me out a lot. With that in mind, having family read them or someone who knows you (not just research you, very well) can be helpful.
 
 ## Submitting Your Applications! And the Waiting Game...
 Please, please, please don’t wait until the last second to submit your applications. I made myself finish them all before I left for Thanksgiving break and it was one of the best decisions I made the whole application process. Submitting early let me actually take a break over the break before gearing up for finals (uninterrupted by apps!). Totally up to you, but it may help your peace of mind to know that everything’s in. 
