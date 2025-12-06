@@ -44,16 +44,19 @@ In direct-admit programs, you enter the PhD already matched with a specific facu
 
 ### A Typical Timeline
 Regardless of format, most PhD programs in neuroscience or psychology follow a similar general structure:
+
 **Year 1:**
-Rotations or a first-year research project
-Coursework (ethics, statistics or quantitative methods, computational modeling, psychology/neuroscience core courses)
+- Rotations or a first-year research project
+- Coursework (ethics, statistics or quantitative methods, computational modeling, psychology/neuroscience core courses)
+
 **Year 2:**
-Join a thesis lab
-Take qualifying or candidacy exams (“quals”)
-Develop and defend a dissertation proposal
+- Join a thesis lab
+- Take qualifying or candidacy exams (“quals”)
+- Develop and defend a dissertation proposal
+
 **Years 3 and Beyond:**
-Conduct dissertation research
-Write and defend your dissertation
+- Conduct dissertation research
+- Write and defend your dissertation
 
 ### Choosing Between Rotation and Direct Admit
 Most programs I applied to were rotation-based, but interestingly, my final decision came down to a rotation and a direct-admit program. I ultimately chose the rotation-based option. For me, it offered flexibility and the chance to find an advisor whose mentoring style and research focus truly aligned with my interests.
