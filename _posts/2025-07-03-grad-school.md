@@ -6,32 +6,19 @@ tags:
 
 ---
 
-Hi there! I’ve been excited to write this post since I completed the grad school application cycle this past April. I want to focus more on my personal experience here, as I know the application process is highly individual and dependent on your own unique experiences in undergrad (and what you want for your PhD)! But, I’ve also tried to add in some advice and online resources based on what I researched and observed when applying. My hope is that by sharing my experience with the PhD application process for neuroscience & psychology, I can help you understand what the process looks and feels like, and to help you know what to expect, as I know it can seem overwhelming! 
+Hello! I’ve been excited to write this post ever since I completed the PhD application cycle in Spring 2025. When I was applying to graduate school last year, I read countless blog posts and I've been eager to give back to the grad application community by describing my own experience. My hope is that by sharing my experience with the PhD application process for neuroscience & psychology, I can help you understand what the process looks and feels like and to help you know what to expect, as I know it can seem overwhelming! 
 
 I also know having access to sample essays and CVs was a great help to me when applying (I looked at far too many), so I’ve made my materials for Stanford University available [here](https://docs.google.com/document/d/1Q_OD-fWvD319eUio81-brQuH5VcjBBLMDwnCfMJ5Agk/edit?usp=sharing). 
 
 I also intend this post to be a living document, so if you have any comments or questions, feel free to send me an email at gebhart[at]stanford.edu and I’ll update accordingly! 
 
 ________________________________
-# Notes
-
-### August 8th:
-
-I’ll be slowly adding to this post as this year’s application cycle progresses but feel free to send along any questions you have in the meantime. 
-
-### November 12th:
-A little later than I anticipated, but I've updated this post with my thoughts on applications!
-
-### November 26th:
-All done! Feel free to reach out if there's any more you want to hear about. 
-
-________________________________
 # A Little Bit About My Background
 
 My research experience in undergrad was pretty nonlinear. I started in physics, then moved to computer science, math, experimental psychology, and finally computational neuroscience. I had several reasons for doing this:
-- I thought I wanted to be a doctor until senior year of highschool, where in a medical internship I discovered I really didn’t like working in medicine. Coming into college, I wanted to try out research as an alternative but didn’t know exactly what I wanted to research. So, I thought I would try out everything that piqued my interest.
+- I thought I wanted to be a doctor until my senior year of highschool, where in a medical internship I discovered I really didn’t like working in medicine. Coming into college, I wanted to try out academic research but didn't know exactly what I should study. So, I thought I would try out everything that piqued my interest!
 - I thought it would be useful to have a broad background to draw from if I ended up wanting to be a researcher. 
-- My research interests changed over the course of undergrad. I entered wanting to major in math and physics, and eventually dropped the physics for cognitive science. I’ve always been interested in cognition and realized that studying it from a mathematical/physics-informed perspective is pretty cool, in my opinion! But my perspective and interests have shifted a bit from even that. 
+- My research interests changed over the course of undergrad. I entered wanting to major in math and physics, and eventually dropped the physics for cognitive science. I’ve always been interested in cognition and realized that studying it from a mathematical/physics-informed perspective is pretty cool! But my perspective and interests have shifted a bit from even that. 
 
 I had a few areas I would be willing to complete my PhD in which made it both easy and difficult to apply. It maybe could have helped if I waited a year to apply and tried to find a lab to work in for a year post-grad. But at the time, I felt ready and had several reasons for applying immediately after undergrad:
 - I love research
@@ -39,14 +26,13 @@ I had a few areas I would be willing to complete my PhD in which made it both ea
 - Opportunities for teaching and mentorship
 - Personal motivation to make a research contribution
 
-That being said, before applying I think it’s useful to think about why you want to go to graduate school regardless of your experience. Some reasons I’ve heard not to just go to graduate school
-- It’s the next thing to do. 
-- You don’t know what to do after college.
-- You aren’t resilient or capable of coping with failure. 
+That being said, before applying I think it’s useful to think about why you want to go to graduate school regardless of your experience. You should not go to graduate school because:
+- It’s the next thing to do 
+- You don’t know what to do after college
+- You aren’t resilient or capable of coping with failure
+Graduate school is a big commitment, time-wise and life-wise. 
 
 To relieve the pressure: I’ve also learned that there is no "typical applicant". The best thing to be is yourself (but professional, of course) and not stick too closely to what other people have done. Because then you won’t be representing yourself and your interests! 
-
-
 
 ________________________________
 # Variations in Programs
@@ -55,7 +41,7 @@ While PhD programs in Psychology and Neuroscience are pretty similar, the bigges
 
 In a rotation-based program, you spend your first year working in several different labs (usually two to four) before choosing your thesis advisor. This setup allows you to explore a range of research areas, lab environments, and mentorship styles before committing to one for your dissertation work. 
 
-In direct-admit programs, you enter the PhD already matched with a specific faculty member and lab. This can be great if you already know exactly what research questions excite you and have a strong working relationship with a potential advisor. However, it also means you’re essentially committed from day one. If the project, mentoring style, or lab culture isn’t the right fit, it can be hard (but not impossible) to pivot.
+In direct-admit programs, you enter the PhD already matched with a specific faculty member and lab. This can be great if you already know exactly what research questions excite you and feel confident in your ability to have a strong working relationship with your potential advisor. However, it also means you’re committed to a topic and PI from day one. If the project, mentoring style, or lab culture isn’t the right fit, it can be hard (but not impossible) to pivot.
 
 ### A Typical Timeline
 Regardless of format, most PhD programs in neuroscience or psychology follow a similar general structure:
@@ -71,15 +57,15 @@ Conduct dissertation research
 Write and defend your dissertation
 
 ### Choosing Between Rotation and Direct Admit
-Most programs I applied to were rotation-based, but interestingly, my final decision came down to choosing between a rotation and a direct-admit program. I ultimately chose the rotation-based option. For me, it offered flexibility and the chance to find an advisor whose mentoring style and research focus truly aligned with my interests.
+Most programs I applied to were rotation-based, but interestingly, my final decision came down to a rotation and a direct-admit program. I ultimately chose the rotation-based option. For me, it offered flexibility and the chance to find an advisor whose mentoring style and research focus truly aligned with my interests.
 Many people choose rotation-based programs for that same reason. They don’t want to commit to a lab before getting a sense of how the environment actually feels day to day and whether they have a good dynamic with the PI (principal investigator) of the lab. But others thrive in direct-admit programs because they already have a clear research direction and want to dive in immediately.
 Ultimately, neither is “better” than the other. It depends on you and your confidence in your research goals and knowledge of what kind of environment you need to be most successful.
 
 _______________________________
 # Thoughts About the Timeline
-PhD applications are a long process. A really long process, in my opinion (and depending on how much of a planner you are). And there's a great reason for it - on your end, there’s a lot of decisions to make, materials to prepare, and essays to write and on their end, they need to take the time to choose which of you to interview involving several looks over your applications, big meetings, etc.
+PhD applications are a long process. A really long process, in my opinion (and even longer if you're a big planner!). And there's a great reason for it - on your end, there’s a lot of decisions to make, materials to prepare, and essays to write and on their end, they need to take the time to choose which of you to interview involving several looks over your applications, big meetings, etc.
 
-I maybe started planning out my applications a bit too far in advance but this is roughly the process I followed: 
+I started planning out my applications perhaps a bit too far in advance but this is roughly the process I followed: 
 
 **December 2024**
 - Pretty thoroughly researched schools to apply to. 
@@ -133,7 +119,7 @@ ________________________________
 # Preparing Your Applications!
 
 ## Recommendations
-Strong letters of application make a huge difference in your application. They help the admissions committee see who others thing you are as a researcher (in addition to what you’ve self-reported in your application), as well as your potential as a scientist. 
+Strong letters of application make a huge difference in your application. They help the admissions committee see who others think you are as a researcher (in addition to what you’ve self-reported in your application), as well as your potential as a scientist. 
 
 ### Who to Ask?
 The strongest letters will usually come from faculty members (with a PhD) who have directly overseen your research. But, letter writers can also include: a course instructor or professor who knows your academic performance and work ethic well, or a post-doc you’ve worked with). It’s generally not recommended to ask graduate students for letters since admissions tend to weigh letters from faculty more heavily. 
@@ -153,9 +139,7 @@ In addition to this spreadsheet, I often remind my letter writers about a week b
 ## Transcripts
 This one’s simple but important: order your transcripts early. 
 
-I ran into a little conundrum where I realized I hadn’t requested my official transcripts from community colleges I attended during high school (containing credits that counted towards my undergraduate degree). But programs required that I submit official transcripts from each institution where you’ve earned credit, even if those credits were later transferred.  
-
-Don’t be like me. But also don’t panic if you are late on this, most programs mainly want to verify that you’ve completed the coursework you’ve listed, which can be done with just your undergraduate transcript. 
+I ran into a little conundrum where I realized I hadn’t requested my official transcripts from community colleges I attended during high school (containing credits that counted towards my undergraduate degree). But programs required that I submit official transcripts from each institution where you’ve earned credit, even if those credits were later transferred. Don’t be like me. But also don’t panic if you are late on this, most programs mainly want to verify that you’ve completed the coursework you’ve listed, which can be done with just your undergraduate transcript. 
 
 Another note: make sure to unencrypt your official transcripts before uploading once you send them to yourself. There are a number of free websites to do this, some of which will watermark your transcript and others which will not. But either can be submitted. 
 
@@ -197,9 +181,9 @@ Some programs throw in **supplemental essay** prompts. It’s helpful to keep a 
 Also - you can repeat your statements for schools! I had the same base paragraphs for 75% of my SOP for almost all schools and swapped out the rest for information specific to each program. At the end of the day, make sure it sounds like you, not anybody else. I think having my voice in my statement helped me out a lot. With that in mind, having family read them (or someone who knows you (not just research you, very well) can be helpful.
 
 ## Submitting Your Applications! And the Waiting Game...
-Please, please, please don’t wait until the last second to submit your applications. Something can and will go wrong. I made myself finish them all before I left for Thanksgiving break and it was one of the best decisions. It let me actually take a chill over the break before gearing up for finals (uninterrupted by apps!). Totally up to you, but it may help your peace of mind to know everything’s in. 
+Please, please, please don’t wait until the last second to submit your applications. I made myself finish them all before I left for Thanksgiving break and it was one of the best decisions I made the whole application process. Submitting early let me actually take a break over the break before gearing up for finals (uninterrupted by apps!). Totally up to you, but it may help your peace of mind to know that everything’s in. 
 
-Also, waiting to hear back is maybe the hardest part. It’s where you have the least control in the process - the ball is completely in their court. But it’s also time for you to recover or focus on parts of your life other than impending graduate school. Depending on which programs you apply for, the waiting game may be weeks or months long. I heard back about my first interviews two weeks after the application deadline and got my last decision in late March. I personally wish that I would have been more conscious about finding things to focus on other than the decisions. 
+Waiting to hear back was definitely the hardest part of the application cycle for me. It’s where you have the least control in the process - the ball is completely in their court. But it’s also time for you to recover or focus on parts of your life other than impending graduate school. Depending on which programs you apply for, the waiting game may be weeks or months long. I heard back about my first interviews two weeks after the application deadline and got my last decision in late March. I personally wish that I would have been more conscious about finding things to focus on other than the decisions. 
 
 _______________________________
 # After Applications...
@@ -209,15 +193,15 @@ Once you get an interview, schools are genuinely interested in you as an applica
 
 Here are some tips that helped me feel prepared:
 - Have a clear, confident 3-5 minute spiel about your research and motivations for doing a PhD. This is often the backbone of interviews and sometimes comprises the entire interview. 
-- Know your past research inside and out - especially your specific contributions. I literally whiteboarded out the theoretical pieces of every project I’d worked on, re-presented old talks and posters to my mirror, and wrote out short summaries of each project. While this may have been overkill, it helped everything feel fresh and made it significantly easier to answer questions about my work during interviews. 
-- Be ready to talk about ideas you have for your PhD and how they can be implemented at each institution. In interviews, I often found myself tripped up by questions like “so, what’s your dream project?” or “ideally, what would you study in your phd?”. I’d spent so much time thinking about how to explain my past research that I wasn’t thinking ahead enough about what I wanted to study in the future. I think what interviewers are looking for here is for you to be able to articulate a project that you would be interested in that can be completed with the resources and time available in a PhD. 
+- Know your past research inside and out - especially your specific contributions to your project(s). I literally whiteboarded out the details of every project I’d worked on, re-presented old talks and posters to my mirror, and wrote out short summaries of each project. While this may have been overkill, it helped everything feel fresh and made it significantly easier to answer questions about my work during interviews. 
+- Be ready to talk about ideas you have for your PhD and how they can be implemented at each institution. In interviews, I often found myself tripped up by questions like “so, what’s your dream project?” or “ideally, what would you study in your PhD?”. I’d spent so much time thinking about how to explain my past research that I wasn’t thinking ahead enough about what I wanted to study in the future. I think what interviewers are looking for here is for you to be able to articulate a project that you would be interested in that can be completed with the resources and time available in a PhD. 
 - Be able to discuss why you applied to the school and why you want to go there specifically. Show that you understand the program, the people, and the research environment. At the end of the day, all interviewees are fantastic researchers, they know this from your applications. Interviewers are looking for who will be the best fit for their program. 
 - I prepared notes on each interviewer, the school, and my research that I would review before each interview. I get pretty nervous during interviews, so having those notes was a good little safety blanket. But I didn’t find myself reading them too much. 
-- Take a deep breath. Drink water. It’s a lot, but you’ve got this. 
+- Take a deep breath. Drink water, sleep, and take some time for yourself too. 
 
 ## Interviews
 ### Interview Formats
-Interviews honestly look different for every school. In my case, most were on zoom, only two were in person, and a few overlapped. It seems that zoom interviews have become more common after the pandemic. They’re a great way for the program to cut costs and are often followed by in-person visit days once you’ve been admitted to the school. 
+Interviews look different for every program. In my case, most were on zoom, only two were in person, and a few overlapped. It seems that zoom interviews have become more common after the pandemic. They’re a great way for the program to cut costs and are often followed by in-person visit days once you’ve been admitted to the school. 
 
 Zoom interviews often took one of two formats. Either they were “simulated” interview weekends (all-day zoom interviews, social events, and information sessions for 1-3 days) or just isolated interviews with 3-5 professors/PIs over the course of a week or two. A few tips for these kinds of interviews:
 - Send thank you notes! While this is true for in-person interviews as well, I think it is especially useful for virtual interviews since they lend one more insight into you and your character. 
@@ -234,7 +218,7 @@ Most of my interviews were about thirty minutes long with each professor. They u
 
 It’s up to you how you construct this important spiel. I would begin with my educational background, then walk through my relevant research projects. Often the conversation would take off from there with many follow up questions from the professor, tangents, and shared excitement. My best interviews were when we both got excited about the same thing and the professor launched into stories for the rest of the interview. This is also somewhat of a technique that you learn along the way, I do highly recommend using it. 
 
-Near the end of each interview, they’ll tell you a bit about their own work and ask if you have any questions. I’ll be honest, one of the hardest parts of interviews for me was figuring out what to ask during the question time. I had a few interviewers who hadn’t read my application beforehand or we didn’t have much overlap in research interests and suddenly I had thirty whole minutes of questions to fill. I never felt like I had enough questions prepared. But when in doubt, asking about their work always tends to open things up. 
+Near the end of each interview, they’ll tell you a bit about their own work and ask if you have any questions. I’ll be honest, one of the hardest parts of interviews for me was figuring out what to ask during the question time. I had a few interviewers who hadn’t read my application beforehand (or we didn’t have much overlap in research interests) and suddenly I had thirty whole minutes of questions to fill. I never felt like I had enough questions prepared. But when in doubt, asking about their work always tends to open things up. 
 
 I found it helpful to research professors beforehand and their students. They will by default assume you don’t know much about them and explain what their lab does anyways. I would recommend skimming a few papers to set yourself at ease. But at the end of the day, it’s better to connect with your interviewers as people, not just accomplished scientists. 
 
@@ -255,7 +239,7 @@ Interviews are a lot socially, mentally, and logistically. Even after zoom inter
 
 I think it’s more common now for schools to do admitted student visits after virtual interviews (should you be admitted). These seem like a great idea to me personally; you’re already in the school and can focus on learning about the place, meeting people, and understanding how you might fit in the school. 
 
-But, I personally didn’t go to any. By the time the visits rolled around, I already had a good idea of where I wanted to go and it was where I’d already interviewed in-person.
+But, I actually didn’t go to any. By the time the visits rolled around, I already had a good idea of where I wanted to go and it was where I’d already interviewed in-person.
 
 _______________________________
 # Making Your Decision
@@ -273,7 +257,7 @@ Some factors I thought deeply about include:
 That being said, one of the biggest factors in my decision was program location and whether I could live a fulfilling life outside of my research. Even though we’re researchers, we are people at the end of the day. We have interests, passions, and things outside of our academic work that energize us outside of academic work. These things matter a lot more than I initially thought when applying. 
 
 For me, being able to spend time outdoors year-round was hugely important. I love:
-- The opportunity to research outside (made possible by computational projects)
+- The opportunity to research outside (made possible by computational projects).
 - Heading outside to hike, run, or bike after long days. This was tricky to do in LA, which made me all the more excited for the possibility in grad school.
 - Weekend adventures to keep me sane. 
 - And I’ll be honest, I’m not a big fan of precipitation. Sunshine is a key factor in my happiness but that may just be the Californian in me speaking…
