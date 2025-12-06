@@ -30,9 +30,8 @@ That being said, before applying I think it’s useful to think about why you wa
 - It’s the next thing to do 
 - You don’t know what to do after college
 - You aren’t resilient or capable of coping with failure
-Graduate school is a big commitment, time-wise and life-wise. 
 
-To relieve the pressure: I’ve also learned that there is no "typical applicant". The best thing to be is yourself (but professional, of course) and not stick too closely to what other people have done. Because then you won’t be representing yourself and your interests! 
+Graduate school is a big commitment, time-wise and life-wise. To relieve the pressure: I’ve also learned that there is no "typical applicant". The best thing to be is yourself (but professional, of course) and not stick too closely to what other people have done. Because then you won’t be representing yourself and your interests! 
 
 ________________________________
 # Variations in Programs
@@ -45,14 +44,14 @@ In direct-admit programs, you enter the PhD already matched with a specific facu
 
 ### A Typical Timeline
 Regardless of format, most PhD programs in neuroscience or psychology follow a similar general structure:
-#### Year 1:
+**Year 1:**
 Rotations or a first-year research project
 Coursework (ethics, statistics or quantitative methods, computational modeling, psychology/neuroscience core courses)
-#### Year 2:
+**Year 2:**
 Join a thesis lab
 Take qualifying or candidacy exams (“quals”)
 Develop and defend a dissertation proposal
-#### Years 3 and Beyond:
+**Years 3 and Beyond:**
 Conduct dissertation research
 Write and defend your dissertation
 
@@ -67,7 +66,7 @@ PhD applications are a long process. A really long process, in my opinion (and e
 
 I started planning out my applications perhaps a bit too far in advance but this is roughly the process I followed: 
 
-**December 2024**
+**December 2023**
 - Pretty thoroughly researched schools to apply to. 
 - Made a spreadsheet of 25 or so “top” schools, noting which advisors I’d want to work with at each. 
 
