@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Hello! I’ve been excited to write this post ever since I completed the PhD application cycle in Spring 2025. When I was applying to graduate school last year, I read countless blog posts and I've been eager to give back to the grad application community by describing my own experience. My hope is that by sharing my experience with the PhD application process for neuroscience & psychology, I can help you understand what the process looks and feels like and to help you know what to expect, as I know it can seem overwhelming! 
+Hello! I’ve been excited to write this post ever since I completed the PhD application cycle in Spring 2025. When I was applying to graduate school last year, I read countless blog posts and I've been eager to give back to the grad application community by blogging about my own experience. My hope is that by sharing my experience with the PhD application process for neuroscience & psychology, I can help you understand what the process looks and feels like and to help you know what to expect, as I know it can seem overwhelming! 
 
 I also know having access to sample essays and CVs was a great help to me when applying (I looked at far too many), so I’ve made my materials for Stanford University available [here](https://docs.google.com/document/d/1Q_OD-fWvD319eUio81-brQuH5VcjBBLMDwnCfMJ5Agk/edit?usp=sharing). 
 
@@ -145,7 +145,7 @@ Another note: make sure to unencrypt your official transcripts before uploading 
 
 
 ## Essays!
-The bane of my existence in fall 2024. Just kidding - I actually had a pretty good time writing these and learned a lot about myself in the process! There are two main types of essays in PhD applications: statements of purpose and personal statements. Some programs also ask for a diversity statement or other short supplemental essays. 
+The bane of my existence in fall 2024. Just kidding - I actually had a somewhat good time writing these! There are two main types of essays in PhD applications: statements of purpose and personal statements. Some programs also ask for a diversity statement or other short supplemental essays. 
 
 ### Statement of Purpose
 The **statement of purpose (SOP)** is a chance for you to answer:
@@ -254,13 +254,13 @@ Some factors I thought deeply about include:
 - Collaboration between labs
 - Ability to teach or TA (important whether or not you think you’ll love it) 
 
-That being said, one of the biggest factors in my decision was program location and whether I could live a fulfilling life outside of my research. Even though we’re researchers, we are people at the end of the day. We have interests, passions, and things outside of our academic work that energize us outside of academic work. These things matter a lot more than I initially thought when applying. 
+That being said, one of the biggest factors in my decision was program location and whether I could live a fulfilling life outside of my research. Even though we’re researchers, we are people at the end of the day. We have interests, passions, and things outside of our academic work that energize us outside of academic work. These things matter a lot more than I initially thought. 
 
 For me, being able to spend time outdoors year-round was hugely important. I love:
 - The opportunity to research outside (made possible by computational projects).
 - Heading outside to hike, run, or bike after long days. This was tricky to do in LA, which made me all the more excited for the possibility in grad school.
 - Weekend adventures to keep me sane. 
-- And I’ll be honest, I’m not a big fan of precipitation. Sunshine is a key factor in my happiness but that may just be the Californian in me speaking…
+- And I’ll be honest, I’m not a big fan of precipitation.
 
 Other factors I thought about a lot include: 
 - Work life balance and cultural expectations around work
@@ -272,13 +272,13 @@ Other factors I thought about a lot include:
 There were a lot of things, some expected and others less so that helped me in the graduate school application process. Here are a few that made a real difference: 
 
 **Making a “Life Map”**
-I applied to the Knight Hennessy scholarship last year while I was applying to graduate schools. For one of the prompts, I made a life map which was essentially a diagram where I wrote out all major parts of my life so far and connected them to help me write the essay. It ended up being useful far beyond that one essay. It really helped me understand what I care about, how to articulate my life so far, and what direction I want to grow in. 
+I applied to the Knight Hennessy scholarship last year while I was applying to graduate schools. To answer one of the prompts, I made a "life map". This was essentially a giant diagram where I wrote out all major events, accomplishments, and moments in my life so far and connected them thematically. It ended up being useful far beyond that one essay. It really helped me understand what I care about, how to articulate my life so far, and what directions I want to grow in. 
 
 **Talking to Mentors about their Application Journeys**
 Hearing how my current professors navigated the process (often decades ago and in wildly different ways) was really helpful. There’s definitely no “right” way to apply to grad school. People are successful with wildly different strategies. It definitely pays to be yourself though. 
 
 **Mental Health Support**
-This is not glamorous, but was essential. Having my routines, friends to talk to, and focusing on enjoying my last semester of college kept me from burning out. Graduate applications are stressful and so is beginning graduate school. Taking care of your mental health is an understated way to prepare. 
+This is not glamorous, but was essential. Having my routines, friends to talk to, and trying to focus on enjoying my last semester of college kept me from burning out. Graduate applications are stressful and so is beginning graduate school. Taking care of your mental health is an understated form of preparation.  
 
 **Exploring a Lot of Research Directions in Undergrad**
 Testing out a lot of areas in undergrad helped me understand what I actually enjoy rather than what I thought I’d enjoy. It made it easier for me to articulate my interests to program and explain why I was interested in them. That being said, I’m still figuring it out. 
@@ -287,7 +287,7 @@ Testing out a lot of areas in undergrad helped me understand what I actually enj
 	I reached out really widely to talk about the graduate admissions process. Especially as a pretty reserved person, this was hugely helpful in calming my anxieties, knowing what to expect, and getting excited. 
 
 **Applying Widely to REUs, Grants and Other Opportunities**
-	I applied to a lot of programs in undergrad. I look back at a lot of my earlier essays and cringe… a lot. But each one I did helped me to better write about research, present ideas, and pitch myself. It definitely helped me feel more confident when it came time to apply to graduate school. 
+	I applied to a lot of programs in undergrad. I look back at a lot of my earlier essays and cringe… a lot. But each one I did helped me to better write about my research experience, present ideas, and pitch myself. It definitely helped me feel more confident when it came time to apply to graduate school. 
 
 **Reading Papers**
 	Not unconventional, but the best thing you can do is read, read, read, read. Reading widely helped me with everything: interviews, statements, research ideas, and my understanding of where the field is heading. 
@@ -321,14 +321,14 @@ Follow your gut. But if you can’t quite find it yet, these might help:
 - Do informational interviews with people
 - Research. Research. Research. 
 
-Your goal in undergrad shouldn’t be to cultivate the perfect CV, but to explore, learn, and figure out what you enjoy doing, whether it’s research or not. 
+Your goal in undergrad should be to explore, learn, and figure out what you enjoy doing, whether it’s research or not (in my opinion). 
 
 ### 6. How many schools should I apply to?
 Depends on your confidence level. I knew people that applied to over twenty, and others that applied to two. If you have a connection somewhere, that definitely helps and maybe you can apply to fewer, but I would caution against applying to too many because then you might not have the bandwidth to personalize your application to each program.
 
-Personally, I applied to 9 programs, and added two of those in the last month since I was nervous about getting in anywhere. But the thing is, I really didn’t want to go to those last two programs, and it showed in my application and made things a little awkward when I got into one of them. So, for me adding those two was a waste of time. 
+Personally, I applied to nine programs, and added two of those in the last month before applications were due. But the thing is, I wasn't as excited about those last two programs and it showed in my applications. 
 
-In general, I think it comes down to both how confident you feel about your application and how many schools you feel like you could imagine yourself actually accepting to and attending (there’s no point in paying the crazy application fee if you don’t actually think you’ll end up wanting to go somewhere or it’s not a great fit for you but is just a good safety). 
+In general, I think how many programs you apply to comes down to both how confident you feel about your application and which programs you feel like you could imagine yourself actually accepting to and attending if you were to get in (there’s no point in paying the crazy application fee if it’s not a great fit for you and you wouldn't want to go if you were accepted). 
 
 That being said, having safeties isn’t a bad idea in general, but only if you actually want to go to the program. In my opinion it’s not worth applying if you feel like you’ll be miserable there. 
 
@@ -339,11 +339,7 @@ I think the key here is not making your mental health struggles the focus of you
 
 ### 8. Any other advice?
 Not to be cheesy, but: 
-Take risks. Try new things. Don’t let the fear of failure prevent you from putting yourself out there. I know it sounds cliche, but it’s true. 
-
-Do what you enjoy! Don’t just do things because others are doing them. Or you think everybody else is doing them. 
-
-Take the long shot. Make impulsive decisions if they feel right to you. And chase what excites you!
+Take risks. Try new things. Don’t let the fear of failure prevent you from putting yourself out there. Do what you enjoy! Don’t just do things because others are doing them. Or you think everybody else is doing them. Take the long shot. Make impulsive decisions if they feel right to you. And chase what excites you!
 
 ## Other Resources
 - Admissions Q&As at Graduate School Programs
@@ -351,3 +347,8 @@ Take the long shot. Make impulsive decisions if they feel right to you. And chas
 - [Kenji Lee's PhD Applications Post](https://erickenjilee.github.io/ApplyingToGradSchool.html)
 - [Stanford's Application Assistance Program](https://www.stanfordaap.com/for-mentees)
 - Reddit... always
+
+## Acknowledgements
+Huge thanks to [Dr. Justin Li](https://www.oxy.edu/academics/faculty/justin-li) for reading countless drafts of my application statements and advising me on life as a researcher!  
+
+Thanks as well to all of my other mentors, inside and outside of research: [Dr. Dan Snowden-Ifft](https://www.oxy.edu/academics/faculty/daniel-snowden-ifft), [Dr. Carmel Levitan](https://www.oxy.edu/academics/faculty/carmel-levitan), [Dr. Aysha Motala](https://www.stir.ac.uk/people/1791684), [Dr. Stephanie Nelli](https://www.oxy.edu/academics/faculty/stephanie-nelli), [Dr. John Kolassa](https://statistics.rutgers.edu/people-pages/faculty/people/395-john-kolassa), [Dr. Satish Nair](https://engineering.missouri.edu/faculty/satish-s-nair/), and [Walt Omelyusik MS](https://medicine.missouri.edu/centers-institutes-labs/kundu-lab/team). I am grateful for your guidance and all that I've learned from each and every one of you! 
