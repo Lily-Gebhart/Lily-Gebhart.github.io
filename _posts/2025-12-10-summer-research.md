@@ -61,6 +61,7 @@ The thing about NSF REUs is that all opportunities aren’t available on a stand
   - This site has many fulled funded STEM research programs! 
 
 4. **International Opportunities**
+
 - [Fulbright Canada-Mitacs Globalink Program](https://www.fulbright.ca/programs/undergraduate-students/fulbright-canada-mitacs-globalink-program)
 - [ThinkSwiss Research Scholarships](https://swissnex.org/services/academia/thinkswiss-research-scholarships-north-america/)
 - [DAAD RISE (Germany)](https://www.daad.de/rise/en/rise-germany/)
