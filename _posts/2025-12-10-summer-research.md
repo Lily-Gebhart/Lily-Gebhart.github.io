@@ -40,10 +40,10 @@ Summer research programs are typically about 6-12 weeks long, with 8-10 weeks th
 # Where can I find summer research opportunities?
 I’m going to focus specifically on STEM programs since I don’t know as much about research in the humanities. Here are a few resources for each of the categories described above:
 
-1. **Home University Programs**  
+1.**Home University Programs**  
 Check with your school! 
 
-2. **U.S. Government Funded Opportunities**  
+2.**U.S. Government Funded Opportunities**  
 The thing about NSF REUs is that all opportunities aren’t available on a standardized website. While they are all advertised together (in locations I added here), all programs have separate sites hosted by each institution or department. The NSF list is the most comprehensive source of information on what REUs are out there but it is sometimes out of date. Best practice is to google the names of the programs you’re interested in and try to find their individual websites. 
 
 - [(New) General Website](https://etap.nsf.gov/)
@@ -53,14 +53,14 @@ The thing about NSF REUs is that all opportunities aren’t available on a stand
 - [Math-specific REU Programs](https://sites.google.com/view/mathreu/program-list) 
   - This is a wonderful, annually-updated resource for finding REU programs in math research!
 
-3. **Privately Funded Opportunities**
+3.**Privately Funded Opportunities**
 
 - [AMGEN Scholars](https://amgenscholars.com/) 
   - There’s programs at Caltech, Stanford, UC Berkeley, Harvard, WUSTL, UNC Chapel Hill, NIH, etc. 
 - [Pathways to Science Program Listings](PathwaysToScience.org)
   - This site has many fulled funded STEM research programs! 
 
-4. **International Opportunities**
+4.**International Opportunities**
 
 - [Fulbright Canada-Mitacs Globalink Program](https://www.fulbright.ca/programs/undergraduate-students/fulbright-canada-mitacs-globalink-program)
 - [ThinkSwiss Research Scholarships](https://swissnex.org/services/academia/thinkswiss-research-scholarships-north-america/)
@@ -209,14 +209,14 @@ Here's a few tips:
 
 # Resources
 **Other Blog Posts about REU Programs**
-- https://people.hamilton.edu/cgibbons/2015/07/01/advice-for-applying-to-reus/index.html
-- https://docs.google.com/document/u/0/d/1XtJq3BwSUxvijCoJaxXdCcf5tH-t_EsWC-GgC7KCx2A/pub
-- https://itatidoesthesci.wordpress.com/2018/11/16/reu-a-do-and-do-not-list/
+- [Courtney Gibbon's Post](https://people.hamilton.edu/cgibbons/2015/07/01/advice-for-applying-to-reus/index.html)
+- [A Resource Google Doc from Reddit](https://docs.google.com/document/u/0/d/1XtJq3BwSUxvijCoJaxXdCcf5tH-t_EsWC-GgC7KCx2A/pub)
+- [An REU Dos & Don'ts List](https://itatidoesthesci.wordpress.com/2018/11/16/reu-a-do-and-do-not-list/)
 
 **Sample Applications**
-- https://www.energytransitionumass.org/reu2024
-- http://www.loganpearcescience.com/resources/CfA_essay_loganpearce.pdf 
-- https://lji.web.illinois.edu/reus/
+- [UMass Amherst REU Samples](https://www.energytransitionumass.org/reu2024)
+- [Logan Pierce's Sample](http://www.loganpearcescience.com/resources/CfA_essay_loganpearce.pdf) 
+- [How to Apply to Math REUs + Samples](https://lji.web.illinois.edu/reus/)
 
 # Acknowledgements
 
