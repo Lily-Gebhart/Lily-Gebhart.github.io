@@ -300,7 +300,7 @@ _______________________________
 ### 1. Should I reach out to professors/PIs beforehand?
 Some say yes, some say no. I say yes. 
 
-Reaching out was incredibly helpful for me. For each program, I reached out to 1-3 professors whose work I was really excited about and asked if they were taking students this next year. Most of them responded and I even got to zoom with a few of them! Reaching out gave me a good sense of who might be interested in my work, got me more comfortable with having research-based discussions with potential PIs, and opened doors (through name recognition) that I don’t think would have been opened otherwise. 
+Reaching out was incredibly helpful for me. For each program, I reached out to 1-3 professors whose work I was really excited about and asked if they were taking students this next year ([here's a template!](https://docs.google.com/document/d/1ccbm20W6QgcMub9QrR3JJUKEdfTBctc6/edit?usp=sharing&ouid=114516925182489553196&rtpof=true&sd=true)). Most of them responded and I even got to zoom with a few of them! Reaching out gave me a good sense of who might be interested in my work, got me more comfortable with having research-based discussions with potential PIs, and opened doors (through name recognition) that I don’t think would have been opened otherwise. 
 
 
 ### 2. Should anyone read my application materials?
