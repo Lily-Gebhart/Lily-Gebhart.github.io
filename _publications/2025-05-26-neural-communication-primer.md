@@ -1,7 +1,7 @@
 ---
 title: "Brain Communication in Circuits and Systems: A Primer"
 collection: publications
-category: conferences
+category: conference_papers
 permalink: /publication/2025-05-26-neural-communication-primer
 excerpt: ''
 date: 2025-05-26
