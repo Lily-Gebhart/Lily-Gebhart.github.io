@@ -81,7 +81,7 @@ publication_category:
   books:
     title: 'Books'
   publications:
-    title: 'Publications'
+    title: 'Journal Articles'
   conference_papers:
     title: 'Conference Papers'
   published_abstracts:
