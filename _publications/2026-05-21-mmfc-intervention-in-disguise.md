@@ -2,10 +2,10 @@
 title: "An intervention in disguise: An immersive care model for families where a parent has a brain tumor"
 collection: publications
 category: published_abstracts
-permalink: /publication/2026-05-21-mmfc-intervention-in-disguise.md
+permalink: /publication/2026-05-21-mmfc-intervention-in-disguise
 excerpt: ''
-date: 2025-07-29
-venue: 'American Society of Clinical Oncology 2026 Proceedings'
+date: 2026-05-21
+venue: 'American Society of Clinical Oncology Proceedings'
 slidesurl: 
 paperurl: 
 bibtexurl: 
