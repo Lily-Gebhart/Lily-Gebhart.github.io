@@ -1,7 +1,7 @@
 ---
 title: "Muon Tomography for Detection of Dynamic Border Tunnels"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2023-05-17-muon-tomography
 excerpt: ''
 date: 2023-05-17
