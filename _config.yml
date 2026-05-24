@@ -26,7 +26,7 @@ author:
   name             : "Lily Gebhart"
   pronouns         : # example: "she/her"  
   bio              : "Neurosciences PhD Student"
-  location         : "Palo Alto, CA"
+  location         : #"Palo Alto, CA"
   employer         : "Stanford University"
   uri              : # URL
   email            : "gebhart@stanford.edu" 
@@ -80,10 +80,13 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
+  publications:
+    title: 'Publications'
+  conference_papers:
     title: 'Conference Papers'
+  published_abstracts:
+    title: 'Published Abstracts'
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
