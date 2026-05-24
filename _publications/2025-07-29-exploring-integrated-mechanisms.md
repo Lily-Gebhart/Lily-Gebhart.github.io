@@ -1,7 +1,7 @@
 ---
 title: "Exploring Integrated Co-occurrence and Semantic Mechanisms for Long Term Memory Retrieval"
 collection: publications
-category: conferences
+category: conference_papers
 permalink: /publication/2025-07-29-exploring-integrated-mechanisms
 excerpt: ''
 date: 2025-07-29
