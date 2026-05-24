@@ -1,7 +1,7 @@
 ---
 title: "Adjustments for Kurtosis and Continuity on the Prentice Test"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2024-02-09-adjustments-kurtosis
 excerpt: ''
 date: 2024-02-09
