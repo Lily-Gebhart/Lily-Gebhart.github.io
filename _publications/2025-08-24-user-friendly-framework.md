@@ -1,7 +1,7 @@
 ---
 title: "A User-Friendly Framework for Measuring Short Duration Interval Time Perception"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2025-08-24-user-friendly-framework
 excerpt: ''
 date: 2025-08-24
