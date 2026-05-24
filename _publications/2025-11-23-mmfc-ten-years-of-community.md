@@ -1,7 +1,7 @@
 ---
 title: "Milton Marks Neuro-Oncology Family Camp (MMFC): 10 Years of Community Building and Support for Families with a Parent Diagnosed with Brain Cancer"
 collection: publications
-category: conferences
+category: conference_papers
 permalink: /publication/2025-11-23-mmfc-ten-years-of-community
 excerpt: ''
 date: 2025-07-29
