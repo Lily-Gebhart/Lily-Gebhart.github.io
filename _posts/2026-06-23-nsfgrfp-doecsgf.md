@@ -6,8 +6,6 @@ tags:
 
 ---
 
-## TL;DR
-
 Apply, apply apply! Even if you don’t feel like you’re ready, the more you apply the more likely you are to get a fellowship and the more practice you’ll have for fellowship and grant writing in the future. Here, I discuss my process and thoughts about applying to the NSF GRFP and DOE CSGF in the 2025/2026 cycle. 
 
 ## Intro
