@@ -9,7 +9,7 @@ tags:
 Apply, apply apply! Even if you don’t feel like you’re ready, the more you apply the more likely you are to get a fellowship and the more practice you’ll have for fellowship and grant writing in the future. Here, I discuss my process and thoughts about applying to the NSF GRFP and DOE CSGF in the 2025/2026 cycle. 
 
 # Intro
-During undergrad and in my PhD so far, I’ve applied to a LOT of research fellowships, grants, and awards. At this point in my “career”, applying to these awards has been one of the most important steps I’ve taken to improve my research, ability to formulate projects, and communication skills.
+During undergrad and in the first year of my PhD, I’ve applied to a lot of research fellowships. Applying to these awards has been one of the most important steps I’ve taken to improve my research, ability to formulate projects, and communication skills.
 
 Much like writing code forces you to understand every step of the program you’re implementing, writing a fellowship application forces you to understand every component of a research project. You have to justify and explain why it matters, how it fits into a larger scientific landscape, and communicate it to people outside your subfield. I often understand a project best after I've had to write about it.
 
@@ -36,7 +36,7 @@ Others mention this, but there are many MANY formatting guidelines. Be sure to f
 
 I want to emphasize that coming up with a novel research question before starting or at the very beginning of a PhD is hard. I struggled with it a lot, completely writing out two alternate projects before landing on the one I submitted for the NSF GRFP. And even then, the project was heavily revised from my original draft. I also procrastinated quite a bit on this application. Starting early is definitely the best way to avoid the many late nights I spent working on it.
 
-I had some practice coming up with novel research questions in undergrad, but coming up with one in a completely new field isn’t easy. For both the NSF GRFP and DOE CSGF applications, I started by identifying assumptions, methodologies, or common practices in the fields I was rotating in that bothered me. Maybe a silly way to come up with a research question, but it worked for me. If a particular assumption, methodology, or interpretation consistently bothers you, chances are it bothers others as well. 
+I had some prior experience developing research questions in undergrad, but coming up with one in a completely new field wasn’t easy. For both the NSF GRFP and DOE CSGF applications, I started by identifying assumptions, methodologies, or common practices in the fields I was rotating in that bothered me. Maybe a silly way to come up with a research question, but it worked for me. If a particular assumption, methodology, or interpretation consistently bothers you, chances are it bothers others as well. 
 
 For my NSF GRFP application, I focused on the issue of group averaging in human fMRI research in response to naturalistic (movie-watching) stimuli. For my DOE CSGF proposal, I focused on how the relative scarcity of clinical overnight EEG data limits our understanding of the diversity of electrical activity patterns associated with sleep and insomnia.
 
@@ -61,14 +61,14 @@ Similar to PhD applications, in explaining each of my research projects, I focus
 
 I also gave substantial context for why I did the research I did and what I took from each experience.  I also used more space to explain the projects that were most relevant to my proposed research direction.  
 
-In general, I approached my personal statement as a persuasive essay. In the introduction, I aimed to demonstrate that I had a personal motivation for studying the problems I proposed to work on. In the Intellectual Merit section, I argued that I had the academic and research qualifications necessary to pursue those questions. Finally, in the Broader Impacts section, I demonstrated that I had the skills and experience needed to ensure that my research and other activities as a scientist would have meaningful impact beyond academia. I discussed my teaching experience, awards and feedback I had received for teaching, and initiatives I led to encourage broader participation in STEM. I then included a paragraph that tied these themes together:
+In general, I approached my personal statement as a persuasive essay. In the introduction, I aimed to demonstrate that I had a personal motivation for studying the problems I proposed to work on. In the Intellectual Merit section, I explained how my past experiences prepared me to pursue those questions. Finally, in the Broader Impacts section, I demonstrated that I had the skills and experience needed to ensure that my research and other activities as a scientist would have meaningful impact beyond academia. I discussed my teaching experience, awards and feedback I had received for teaching, and initiatives I led to encourage broader participation in STEM. I then included a paragraph that tied these themes together:
 
 > “My primary goal as an undergraduate was to bridge the fields of physics, mathematics and computer science applied to multiscale problems in psychology and neuroscience to build a multidisciplinary background ideal for studying computational neuroscience in my PhD. I have built this background through my coursework and extracurriculars, but more importantly, the research projects I actively sought out and led in each discipline. Moving forward, I aim to integrate these disciplines to develop theoretical frameworks and models that better explain how complex cognitive processes emerge from brain dynamics and impact our everyday lives.”
 
 Then, I described how I aim to ensure my research has “broader impacts” in my PhD (through teaching and mentoring roles and my “extracurricular research”) and why getting the NSF will enable me to carry out my broader research vision (in my PhD and beyond). 
 
 ## Final NSF GRFP Thoughts
-If you’re applying to graduate school this year or are currently a first year, I highly HIGHLY recommend applying. It’s a great funding opportunity, a great way to get an award on your CV (if you get Honorable Mention or are awarded the fellowship), and in the case that you don’t receive any accolades, a great exercise in coming up with a novel research question and an approach to tackle it. 
+If you’re applying to graduate school this year or are currently a first year, I highly HIGHLY encourage applying. It’s a great funding opportunity, a great way to get an award on your CV (if you get Honorable Mention or are awarded the fellowship), and in the case that you don’t receive any accolades, a great exercise in coming up with a novel research question and an approach to tackle it. 
 
 
 ## Other Examples + Guides
@@ -126,7 +126,7 @@ And my proposed project was development of an alternate approach to studying psy
 Evidently, I spent a lot more time thinking about writing the application than I did thinking about what it would actually be like to be a DOE CSGF fellow. 
 In retrospect, I wish I had spent more time exploring practicum opportunities, national labs, and the experiences of past fellows. 
 While the application is important, you're ultimately applying to join a community of computational scientists. 
-If your research genuinely depends on advanced computational methods and you are excited by the prospect of working at a national lab (both in your PhD or potentially after), I strongly encourage applying.
+If your research genuinely depends on advanced computational methods and you are excited by the prospect of working at a national lab (both in your PhD or potentially after), I really recommend applying.
 
 ## Other resources!
 - [Kyle Felker's Repository](https://github.com/felker/doe_csgf_applications): Some great examples! 
